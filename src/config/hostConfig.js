@@ -57,6 +57,6 @@ var rootConfig = {
         ftpUrl: 'ftp://59.110.11.116',
       };
   }
-  
+  //意思了手机
   export default rootConfig;
   
